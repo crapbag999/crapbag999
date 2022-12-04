@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @crapbag999
-- 👀 I’m interested in python atutomation for networks, SQL, SHELL scripting
-- 🌱 I’m currently learning python and networking
-- 💞️ I’m looking to collaborate on anything related to my interests
-- 📫 How to reach me discord: crapbag#3722
+- 👀 I’m interested in making web apps
+- 🌱 I’m currently learning how to on The odin project
+- 💞️ I’m looking to collaborate on anything related to web development
 
 <!---
 crapbag999/crapbag999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
