@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @crapbag999
-- 👀 I’m interested in data science/ data analysis and Python
-- 🌱 I’m currently learning how to on freecodecamp.com
-- 💞️ I’m looking to collaborate on anything related to data science/analysis
+- 👀 I’m interested in dotnet
+- 🌱 I’m currently learning how the syntax from "The C# Player's guide" 5th edition
+- 💞️ I’m looking to start work on open source projects.
 
 <!---
 crapbag999/crapbag999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
